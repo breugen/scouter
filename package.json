@@ -1,0 +1,25 @@
+{
+  "name": "scouter",
+  "version": "1.0.0",
+  "description": "Scouter finds trails",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ebreaur/scouter.git"
+  },
+  "keywords": [
+    "trail"
+  ],
+  "author": "Eugen Breaur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ebreaur/scouter/issues"
+  },
+  "homepage": "https://github.com/ebreaur/scouter#readme",
+  "dependencies": {
+    "xlsx-to-json-lc": "^0.5.0"
+  }
+}
